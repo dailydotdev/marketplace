@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "daily.dev community"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "feed-tuner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/feed-tuner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }
