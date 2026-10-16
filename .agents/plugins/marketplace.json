@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "daily.dev community"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "stack-sync",
+      "source": {
+        "source": "local",
+        "path": "./plugins/stack-sync"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }

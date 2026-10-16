@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "stack-sync",
+      "displayName": "Stack Sync",
+      "source": "./plugins/stack-sync",
+      "description": "Point your agent at a repository. It reads the dependency manifests, updates your daily.dev tech stack and follows the matching tags, so your feed matches what you actually build. You see the plan before anything changes.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/jbUktQx9M",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
