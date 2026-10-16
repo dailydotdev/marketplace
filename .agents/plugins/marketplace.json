@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "daily.dev community"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "trend-radar",
+      "source": {
+        "source": "local",
+        "path": "./plugins/trend-radar"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }

@@ -8,5 +8,22 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "trend-radar",
+      "source": "plugins/trend-radar",
+      "description": "Which tags and tools are rising in your corner of the ecosystem this week? Trend Radar compares daily.dev's popular feed against last week's snapshot and surfaces what broke in, what cooled off, and the posts that drove the change.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/rC6HJo6qK",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ]
 }
