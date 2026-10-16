@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bookmarks-to-notes",
+  "version": "1.0.0",
+  "description": "Exports your daily.dev bookmarks to Markdown notes for Obsidian, Logseq or any folder of files: one note per post with summary, tags, source and links. Later runs sync only what's new, so your second brain stays current without duplicates.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/MrlUs5iOr",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Bookmarks to Notes",
+        "shortDescription": "Exports your daily.dev...",
+        "longDescription": "Exports your daily.dev bookmarks to Markdown notes for Obsidian, Logseq or any folder of files: one note per post with summary, tags, source and links. Later runs sync only what's new, so your second brain stays current without duplicates.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/MrlUs5iOr"
+      }
+    }
+  }
+}

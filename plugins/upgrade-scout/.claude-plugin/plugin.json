@@ -1,0 +1,15 @@
+{
+  "name": "upgrade-scout",
+  "description": "Bumping a dependency, or reviewing a PR that does? Upgrade Scout pulls migration guides, gotchas and community reactions from daily.dev for that library and version, and gives you a verdict before you run the upgrade.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/RivZmGRl5",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

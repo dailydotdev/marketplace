@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "inbox-zero",
+  "version": "1.0.0",
+  "description": "Summarizes your daily.dev notifications in one short briefing, split into what needs you (replies, mentions, squad reviews), what's social, and what's just new content, with links on everything actionable. Marks them all read only when you say so.",
+  "author": {
+    "name": "capjavert"
+  },
+  "homepage": "https://daily.dev/marketplace/i5qYhFqoa",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Inbox Zero",
+        "shortDescription": "Summarizes your daily.dev...",
+        "longDescription": "Summarizes your daily.dev notifications in one short briefing, split into what needs you (replies, mentions, squad reviews), what's social, and what's just new content, with links on everything actionable. Marks them all read only when you say so.",
+        "developerName": "capjavert",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/i5qYhFqoa"
+      }
+    }
+  }
+}

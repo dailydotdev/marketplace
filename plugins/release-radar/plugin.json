@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "release-radar",
+  "version": "1.0.0",
+  "description": "A weekly changelog for your stack, from daily.dev. Finds release notes, breaking changes, deprecations and migration posts for the tags you follow, writes a digest that leads with what breaks, and can save the posts to a bookmark list.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/1jvPh2Pbe",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Release Radar",
+        "shortDescription": "A weekly changelog for...",
+        "longDescription": "A weekly changelog for your stack, from daily.dev. Finds release notes, breaking changes, deprecations and migration posts for the tags you follow, writes a digest that leads with what breaks, and can save the posts to a bookmark list.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/1jvPh2Pbe"
+      }
+    }
+  }
+}

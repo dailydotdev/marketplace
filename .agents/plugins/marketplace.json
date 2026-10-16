@@ -3,5 +3,198 @@
   "interface": {
     "displayName": "daily.dev community"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "bookmark-recap",
+      "source": {
+        "source": "local",
+        "path": "./plugins/bookmark-recap"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "bookmarks-roulette",
+      "source": {
+        "source": "local",
+        "path": "./plugins/bookmarks-roulette"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "bookmarks-to-notes",
+      "source": {
+        "source": "local",
+        "path": "./plugins/bookmarks-to-notes"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "branch-reads",
+      "source": {
+        "source": "local",
+        "path": "./plugins/branch-reads"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "community-check",
+      "source": {
+        "source": "local",
+        "path": "./plugins/community-check"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "daily-dev-statusline",
+      "source": {
+        "source": "local",
+        "path": "./plugins/daily-dev-statusline"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "feed-builder",
+      "source": {
+        "source": "local",
+        "path": "./plugins/feed-builder"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "feed-tuner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/feed-tuner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "hot-take-drafter",
+      "source": {
+        "source": "local",
+        "path": "./plugins/hot-take-drafter"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "inbox-zero",
+      "source": {
+        "source": "local",
+        "path": "./plugins/inbox-zero"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "on-call-lookup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/on-call-lookup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "profile-autofill",
+      "source": {
+        "source": "local",
+        "path": "./plugins/profile-autofill"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "release-radar",
+      "source": {
+        "source": "local",
+        "path": "./plugins/release-radar"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "stack-sync",
+      "source": {
+        "source": "local",
+        "path": "./plugins/stack-sync"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "trend-radar",
+      "source": {
+        "source": "local",
+        "path": "./plugins/trend-radar"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "upgrade-scout",
+      "source": {
+        "source": "local",
+        "path": "./plugins/upgrade-scout"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }

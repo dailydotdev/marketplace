@@ -8,5 +8,262 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "bookmark-recap",
+      "source": "plugins/bookmark-recap",
+      "description": "Turns what you bookmarked on daily.dev this week into a short reading report you can paste into standup, Slack or a newsletter. Groups your saves by topic, pulls the one-line summaries and tells you what's worth reading first.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/vnaEJjbal",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "bookmarks-roulette",
+      "source": "plugins/bookmarks-roulette",
+      "description": "Your bookmarks pile up and rot. Spin the cylinder and one forgotten bookmark comes up: spare it and go read it, or pull the trigger and it's deleted from daily.dev for good. Try the demo first, no account needed.",
+      "author": {
+        "name": "finallyjay"
+      },
+      "homepage": "https://daily.dev/marketplace/RWbFEErGu",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "bookmarks-to-notes",
+      "source": "plugins/bookmarks-to-notes",
+      "description": "Exports your daily.dev bookmarks to Markdown notes for Obsidian, Logseq or any folder of files: one note per post with summary, tags, source and links. Later runs sync only what's new, so your second brain stays current without duplicates.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/MrlUs5iOr",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "branch-reads",
+      "source": "plugins/branch-reads",
+      "description": "Your feed knows what you follow. Branch Reads knows what you're building right now. It reads your git branch, spots the libraries, APIs and patterns you're touching, and finds the 3-5 daily.dev posts worth reading for that exact change.",
+      "author": {
+        "name": "zorenkonte"
+      },
+      "homepage": "https://daily.dev/marketplace/skKb0ar5s",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "community-check",
+      "source": "plugins/community-check",
+      "description": "Before you adopt a tool or technique, find out what developers on daily.dev actually think. Reads the most-discussed posts and their comment threads on a topic and summarizes the consensus, the dissent and the production gotchas, with sources.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/tWBXtpkIo",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "daily-dev-statusline",
+      "source": "plugins/daily-dev-statusline",
+      "description": "Rotating daily.dev headlines at the bottom of Claude Code while you wait. Curated major headlines plus the community's most-upvoted posts of the day, clickable in your terminal. No API token needed.",
+      "author": {
+        "name": "dailydevtips"
+      },
+      "homepage": "https://daily.dev/marketplace/HUNeDSQXP",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "feed-builder",
+      "source": "plugins/feed-builder",
+      "description": "Describe a feed in plain English, like \"Rust backend and observability, 50+ upvotes, no videos\", and get a daily.dev custom feed with the right tags, sources and thresholds. Your agent resolves the tags, creates the feed, applies the filters and shows you what it returns.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/tnAgL7ZTC",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "feed-tuner",
+      "source": "plugins/feed-tuner",
+      "description": "Compares what you bookmark on daily.dev with the tags and sources you follow, then proposes follow, unfollow and unblock changes and applies only the ones you approve. Your saves tell the truth about what you want to read.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/WkAHGDkVP",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "hot-take-drafter",
+      "source": "plugins/hot-take-drafter",
+      "description": "Finds the most-argued post on daily.dev this week, lays out both sides from the comment thread, and drafts three takes you could post: the contrarian, the synthesis and the sharp question. Spicy but fair, and you press send, not the agent.",
+      "author": {
+        "name": "capjavert"
+      },
+      "homepage": "https://daily.dev/marketplace/GtABG0DH1",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "inbox-zero",
+      "source": "plugins/inbox-zero",
+      "description": "Summarizes your daily.dev notifications in one short briefing, split into what needs you (replies, mentions, squad reviews), what's social, and what's just new content, with links on everything actionable. Marks them all read only when you say so.",
+      "author": {
+        "name": "capjavert"
+      },
+      "homepage": "https://daily.dev/marketplace/i5qYhFqoa",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "on-call-lookup",
+      "source": "plugins/on-call-lookup",
+      "description": "Paste an error or a log line from an incident. Your agent searches daily.dev for posts about the same failure, reads the comments for corrections, and gives you the likely causes, the checks to run first and the fixes, each with its source. It sends only generic terms, never hostnames or secrets.",
+      "author": {
+        "name": "bobbyiliev"
+      },
+      "homepage": "https://daily.dev/marketplace/tthaTjne2",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "profile-autofill",
+      "source": "plugins/profile-autofill",
+      "description": "Paste your CV, LinkedIn export or a short career summary and your agent fills in your daily.dev work history, education, projects, certifications and tech stack. You approve the plan first; nothing is invented and nothing existing is overwritten.",
+      "author": {
+        "name": "capjavert"
+      },
+      "homepage": "https://daily.dev/marketplace/BHWZC63ZP",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "release-radar",
+      "source": "plugins/release-radar",
+      "description": "A weekly changelog for your stack, from daily.dev. Finds release notes, breaking changes, deprecations and migration posts for the tags you follow, writes a digest that leads with what breaks, and can save the posts to a bookmark list.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/1jvPh2Pbe",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "stack-sync",
+      "source": "plugins/stack-sync",
+      "description": "Point your agent at a repository. It reads the dependency manifests, updates your daily.dev tech stack and follows the matching tags, so your feed matches what you actually build. You see the plan before anything changes.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/jbUktQx9M",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "trend-radar",
+      "source": "plugins/trend-radar",
+      "description": "Which tags and tools are rising in your corner of the ecosystem this week? Trend Radar compares daily.dev's popular feed against last week's snapshot and surfaces what broke in, what cooled off, and the posts that drove the change.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/rC6HJo6qK",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "upgrade-scout",
+      "source": "plugins/upgrade-scout",
+      "description": "Bumping a dependency, or reviewing a PR that does? Upgrade Scout pulls migration guides, gotchas and community reactions from daily.dev for that library and version, and gives you a verdict before you run the upgrade.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/RivZmGRl5",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ]
 }

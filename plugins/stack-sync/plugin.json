@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "stack-sync",
+  "version": "1.0.0",
+  "description": "Point your agent at a repository. It reads the dependency manifests, updates your daily.dev tech stack and follows the matching tags, so your feed matches what you actually build. You see the plan before anything changes.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/jbUktQx9M",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Stack Sync",
+        "shortDescription": "Point your agent at a...",
+        "longDescription": "Point your agent at a repository. It reads the dependency manifests, updates your daily.dev tech stack and follows the matching tags, so your feed matches what you actually build. You see the plan before anything changes.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/jbUktQx9M"
+      }
+    }
+  }
+}

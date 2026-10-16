@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "daily-dev-statusline",
+  "version": "1.0.0",
+  "description": "Rotating daily.dev headlines at the bottom of Claude Code while you wait. Curated major headlines plus the community's most-upvoted posts of the day, clickable in your terminal. No API token needed.",
+  "author": {
+    "name": "dailydevtips"
+  },
+  "homepage": "https://daily.dev/marketplace/HUNeDSQXP",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "daily.dev statusline for...",
+        "shortDescription": "Rotating daily.dev...",
+        "longDescription": "Rotating daily.dev headlines at the bottom of Claude Code while you wait. Curated major headlines plus the community's most-upvoted posts of the day, clickable in your terminal. No API token needed.",
+        "developerName": "dailydevtips",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/HUNeDSQXP"
+      }
+    }
+  }
+}

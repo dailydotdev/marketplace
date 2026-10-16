@@ -1,0 +1,15 @@
+{
+  "name": "inbox-zero",
+  "description": "Summarizes your daily.dev notifications in one short briefing, split into what needs you (replies, mentions, squad reviews), what's social, and what's just new content, with links on everything actionable. Marks them all read only when you say so.",
+  "version": "1.0.0",
+  "author": {
+    "name": "capjavert"
+  },
+  "homepage": "https://daily.dev/marketplace/i5qYhFqoa",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

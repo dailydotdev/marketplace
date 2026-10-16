@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "feed-builder",
+  "version": "1.0.0",
+  "description": "Describe a feed in plain English, like \"Rust backend and observability, 50+ upvotes, no videos\", and get a daily.dev custom feed with the right tags, sources and thresholds. Your agent resolves the tags, creates the feed, applies the filters and shows you what it returns.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/tnAgL7ZTC",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Feed Builder",
+        "shortDescription": "Describe a feed in plain...",
+        "longDescription": "Describe a feed in plain English, like \"Rust backend and observability, 50+ upvotes, no videos\", and get a daily.dev custom feed with the right tags, sources and thresholds. Your agent resolves the tags, creates the feed, applies the filters and shows you what it returns.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/tnAgL7ZTC"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "community-check",
+  "description": "Before you adopt a tool or technique, find out what developers on daily.dev actually think. Reads the most-discussed posts and their comment threads on a topic and summarizes the consensus, the dissent and the production gotchas, with sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/tWBXtpkIo",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

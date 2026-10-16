@@ -1,0 +1,15 @@
+{
+  "name": "bookmarks-to-notes",
+  "description": "Exports your daily.dev bookmarks to Markdown notes for Obsidian, Logseq or any folder of files: one note per post with summary, tags, source and links. Later runs sync only what's new, so your second brain stays current without duplicates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/MrlUs5iOr",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

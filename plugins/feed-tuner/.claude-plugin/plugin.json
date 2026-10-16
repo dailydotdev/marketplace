@@ -1,0 +1,15 @@
+{
+  "name": "feed-tuner",
+  "description": "Compares what you bookmark on daily.dev with the tags and sources you follow, then proposes follow, unfollow and unblock changes and applies only the ones you approve. Your saves tell the truth about what you want to read.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/WkAHGDkVP",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

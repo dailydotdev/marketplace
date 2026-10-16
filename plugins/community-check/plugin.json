@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "community-check",
+  "version": "1.0.0",
+  "description": "Before you adopt a tool or technique, find out what developers on daily.dev actually think. Reads the most-discussed posts and their comment threads on a topic and summarizes the consensus, the dissent and the production gotchas, with sources.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/tWBXtpkIo",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Community Check",
+        "shortDescription": "Before you adopt a tool or...",
+        "longDescription": "Before you adopt a tool or technique, find out what developers on daily.dev actually think. Reads the most-discussed posts and their comment threads on a topic and summarizes the consensus, the dissent and the production gotchas, with sources.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/tWBXtpkIo"
+      }
+    }
+  }
+}

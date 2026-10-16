@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "profile-autofill",
+  "version": "1.0.0",
+  "description": "Paste your CV, LinkedIn export or a short career summary and your agent fills in your daily.dev work history, education, projects, certifications and tech stack. You approve the plan first; nothing is invented and nothing existing is overwritten.",
+  "author": {
+    "name": "capjavert"
+  },
+  "homepage": "https://daily.dev/marketplace/BHWZC63ZP",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Profile Autofill",
+        "shortDescription": "Paste your CV, LinkedIn...",
+        "longDescription": "Paste your CV, LinkedIn export or a short career summary and your agent fills in your daily.dev work history, education, projects, certifications and tech stack. You approve the plan first; nothing is invented and nothing existing is overwritten.",
+        "developerName": "capjavert",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/BHWZC63ZP"
+      }
+    }
+  }
+}
