@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "bookmark-recap",
+      "displayName": "Bookmark Recap",
+      "source": "./plugins/bookmark-recap",
+      "description": "Turns what you bookmarked on daily.dev this week into a short reading report you can paste into standup, Slack or a newsletter. Groups your saves by topic, pulls the one-line summaries and tells you what's worth reading first.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/vnaEJjbal",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
