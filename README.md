@@ -10,11 +10,9 @@ reviewed by the daily.dev team before it lands here. See the
 **Claude Code**
 
 ```bash
-claude plugin marketplace add https://daily.dev/marketplace/claude
+claude plugin marketplace add dailydotdev/marketplace
 claude plugin install <plugin-name>@daily-dev-community
 ```
-
-(`claude plugin marketplace add dailydotdev/marketplace` works too.)
 
 **Codex / ChatGPT**
 
