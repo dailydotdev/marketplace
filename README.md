@@ -2,7 +2,8 @@
 
 Agent skills built by the community on the daily.dev API and approved on the
 [daily.dev plugin marketplace](https://daily.dev/marketplace). Each plugin is
-reviewed by the daily.dev team before it lands here.
+reviewed by the daily.dev team before it lands here. See the
+[Marketplace docs](https://docs.daily.dev/plugin-marketplace/) for how plugins work.
 
 ## Install
 
@@ -29,8 +30,6 @@ In Dashboard > Plugins & MCPs > Team Marketplaces, choose Import from Repo and
 paste `https://github.com/dailydotdev/marketplace`. Turn on Auto Refresh to get
 new plugins as they are approved.
 
-Most plugins need a daily.dev API token: create one at https://daily.dev/settings/api.
-
 ## How plugins get here
 
 Approved marketplace plugins that ship a SKILL.md are synced automatically.
@@ -39,5 +38,5 @@ files list them for each agent. Every change goes through a pull request. To
 change a plugin, update it on daily.dev/marketplace; the approved update is
 synced the same way.
 
-These plugins are written by community members, not by daily.dev. Read a
-plugin's SKILL.md before installing it.
+These plugins are written by community so verify plugin's SKILL.md before using
+it as you would with any other 3rd party code or prompt.
