@@ -8,5 +8,22 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "bookmarks-to-notes",
+      "source": "plugins/bookmarks-to-notes",
+      "description": "Exports your daily.dev bookmarks to Markdown notes for Obsidian, Logseq or any folder of files: one note per post with summary, tags, source and links. Later runs sync only what's new, so your second brain stays current without duplicates.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/MrlUs5iOr",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ]
 }
