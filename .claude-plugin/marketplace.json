@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "on-call-lookup",
+      "displayName": "On-call Lookup",
+      "source": "./plugins/on-call-lookup",
+      "description": "Paste an error or a log line from an incident. Your agent searches daily.dev for posts about the same failure, reads the comments for corrections, and gives you the likely causes, the checks to run first and the fixes, each with its source. It sends only generic terms, never hostnames or secrets.",
+      "author": {
+        "name": "bobbyiliev"
+      },
+      "homepage": "https://daily.dev/marketplace/tthaTjne2",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
