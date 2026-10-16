@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "inbox-zero",
+      "displayName": "Inbox Zero",
+      "source": "./plugins/inbox-zero",
+      "description": "Summarizes your daily.dev notifications in one short briefing, split into what needs you (replies, mentions, squad reviews), what's social, and what's just new content, with links on everything actionable. Marks them all read only when you say so.",
+      "author": {
+        "name": "capjavert"
+      },
+      "homepage": "https://daily.dev/marketplace/i5qYhFqoa",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
