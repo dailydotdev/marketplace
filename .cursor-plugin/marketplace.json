@@ -8,5 +8,22 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "bookmarks-roulette",
+      "source": "plugins/bookmarks-roulette",
+      "description": "Your bookmarks pile up and rot. Spin the cylinder and one forgotten bookmark comes up: spare it and go read it, or pull the trigger and it's deleted from daily.dev for good. Try the demo first, no account needed.",
+      "author": {
+        "name": "finallyjay"
+      },
+      "homepage": "https://daily.dev/marketplace/RWbFEErGu",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ]
 }

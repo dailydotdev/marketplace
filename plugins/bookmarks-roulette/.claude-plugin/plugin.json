@@ -1,0 +1,15 @@
+{
+  "name": "bookmarks-roulette",
+  "description": "Your bookmarks pile up and rot. Spin the cylinder and one forgotten bookmark comes up: spare it and go read it, or pull the trigger and it's deleted from daily.dev for good. Try the demo first, no account needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "finallyjay"
+  },
+  "homepage": "https://daily.dev/marketplace/RWbFEErGu",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}
