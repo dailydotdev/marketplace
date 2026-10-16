@@ -1,0 +1,15 @@
+{
+  "name": "daily-dev-statusline",
+  "description": "Rotating daily.dev headlines at the bottom of Claude Code while you wait. Curated major headlines plus the community's most-upvoted posts of the day, clickable in your terminal. No API token needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydevtips"
+  },
+  "homepage": "https://daily.dev/marketplace/HUNeDSQXP",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}
