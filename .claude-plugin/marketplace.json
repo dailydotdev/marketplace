@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "upgrade-scout",
+      "displayName": "Upgrade Scout",
+      "source": "./plugins/upgrade-scout",
+      "description": "Bumping a dependency, or reviewing a PR that does? Upgrade Scout pulls migration guides, gotchas and community reactions from daily.dev for that library and version, and gives you a verdict before you run the upgrade.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/RivZmGRl5",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
