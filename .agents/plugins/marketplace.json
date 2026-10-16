@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "daily.dev community"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "release-radar",
+      "source": {
+        "source": "local",
+        "path": "./plugins/release-radar"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }

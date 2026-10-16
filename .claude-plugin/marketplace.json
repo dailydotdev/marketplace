@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "release-radar",
+      "displayName": "Release Radar",
+      "source": "./plugins/release-radar",
+      "description": "A weekly changelog for your stack, from daily.dev. Finds release notes, breaking changes, deprecations and migration posts for the tags you follow, writes a digest that leads with what breaks, and can save the posts to a bookmark list.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/1jvPh2Pbe",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
