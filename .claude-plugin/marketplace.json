@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "profile-autofill",
+      "displayName": "Profile Autofill",
+      "source": "./plugins/profile-autofill",
+      "description": "Paste your CV, LinkedIn export or a short career summary and your agent fills in your daily.dev work history, education, projects, certifications and tech stack. You approve the plan first; nothing is invented and nothing existing is overwritten.",
+      "author": {
+        "name": "capjavert"
+      },
+      "homepage": "https://daily.dev/marketplace/BHWZC63ZP",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }

@@ -1,0 +1,15 @@
+{
+  "name": "profile-autofill",
+  "description": "Paste your CV, LinkedIn export or a short career summary and your agent fills in your daily.dev work history, education, projects, certifications and tech stack. You approve the plan first; nothing is invented and nothing existing is overwritten.",
+  "version": "1.0.0",
+  "author": {
+    "name": "capjavert"
+  },
+  "homepage": "https://daily.dev/marketplace/BHWZC63ZP",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}
