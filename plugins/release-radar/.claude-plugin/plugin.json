@@ -1,0 +1,15 @@
+{
+  "name": "release-radar",
+  "description": "A weekly changelog for your stack, from daily.dev. Finds release notes, breaking changes, deprecations and migration posts for the tags you follow, writes a digest that leads with what breaks, and can save the posts to a bookmark list.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/1jvPh2Pbe",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

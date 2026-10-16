@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bookmark-recap",
+  "version": "1.0.0",
+  "description": "Turns what you bookmarked on daily.dev this week into a short reading report you can paste into standup, Slack or a newsletter. Groups your saves by topic, pulls the one-line summaries and tells you what's worth reading first.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/vnaEJjbal",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Bookmark Recap",
+        "shortDescription": "Turns what you bookmarked...",
+        "longDescription": "Turns what you bookmarked on daily.dev this week into a short reading report you can paste into standup, Slack or a newsletter. Groups your saves by topic, pulls the one-line summaries and tells you what's worth reading first.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/vnaEJjbal"
+      }
+    }
+  }
+}

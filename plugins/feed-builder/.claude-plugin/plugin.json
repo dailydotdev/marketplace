@@ -1,0 +1,15 @@
+{
+  "name": "feed-builder",
+  "description": "Describe a feed in plain English, like \"Rust backend and observability, 50+ upvotes, no videos\", and get a daily.dev custom feed with the right tags, sources and thresholds. Your agent resolves the tags, creates the feed, applies the filters and shows you what it returns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/tnAgL7ZTC",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

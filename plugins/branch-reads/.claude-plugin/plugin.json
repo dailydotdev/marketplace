@@ -1,0 +1,15 @@
+{
+  "name": "branch-reads",
+  "description": "Your feed knows what you follow. Branch Reads knows what you're building right now. It reads your git branch, spots the libraries, APIs and patterns you're touching, and finds the 3-5 daily.dev posts worth reading for that exact change.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zorenkonte"
+  },
+  "homepage": "https://daily.dev/marketplace/skKb0ar5s",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "on-call-lookup",
+  "version": "1.0.0",
+  "description": "Paste an error or a log line from an incident. Your agent searches daily.dev for posts about the same failure, reads the comments for corrections, and gives you the likely causes, the checks to run first and the fixes, each with its source. It sends only generic terms, never hostnames or secrets.",
+  "author": {
+    "name": "bobbyiliev"
+  },
+  "homepage": "https://daily.dev/marketplace/tthaTjne2",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "On-call Lookup",
+        "shortDescription": "Paste an error or a log...",
+        "longDescription": "Paste an error or a log line from an incident. Your agent searches daily.dev for posts about the same failure, reads the comments for corrections, and gives you the likely causes, the checks to run first and the fixes, each with its source. It sends only generic terms, never hostnames or secrets.",
+        "developerName": "bobbyiliev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/tthaTjne2"
+      }
+    }
+  }
+}

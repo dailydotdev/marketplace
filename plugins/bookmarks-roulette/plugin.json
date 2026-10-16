@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bookmarks-roulette",
+  "version": "1.0.0",
+  "description": "Your bookmarks pile up and rot. Spin the cylinder and one forgotten bookmark comes up: spare it and go read it, or pull the trigger and it's deleted from daily.dev for good. Try the demo first, no account needed.",
+  "author": {
+    "name": "finallyjay"
+  },
+  "homepage": "https://daily.dev/marketplace/RWbFEErGu",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "daily.dev Roulette",
+        "shortDescription": "Your bookmarks pile up and...",
+        "longDescription": "Your bookmarks pile up and rot. Spin the cylinder and one forgotten bookmark comes up: spare it and go read it, or pull the trigger and it's deleted from daily.dev for good. Try the demo first, no account needed.",
+        "developerName": "finallyjay",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/RWbFEErGu"
+      }
+    }
+  }
+}
