@@ -8,6 +8,23 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "hot-take-drafter",
+      "displayName": "Hot Take Drafter",
+      "source": "./plugins/hot-take-drafter",
+      "description": "Finds the most-argued post on daily.dev this week, lays out both sides from the comment thread, and drafts three takes you could post: the contrarian, the synthesis and the sharp question. Spicy but fair, and you press send, not the agent.",
+      "author": {
+        "name": "capjavert"
+      },
+      "homepage": "https://daily.dev/marketplace/GtABG0DH1",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    }
+  ],
   "forceRemoveDeletedPlugins": true
 }
