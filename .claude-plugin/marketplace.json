@@ -8,5 +8,6 @@
     "description": "Community plugins approved on the daily.dev plugin marketplace (daily.dev/marketplace)",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [],
+  "forceRemoveDeletedPlugins": true
 }
