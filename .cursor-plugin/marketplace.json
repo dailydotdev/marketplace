@@ -170,6 +170,22 @@
       "category": "community"
     },
     {
+      "name": "interest-agent",
+      "source": "plugins/interest-agent",
+      "description": "Name a topic you want to keep up with and your agent turns it into a brief, hunts daily.dev and the web for what you would not want to miss, remembers your taste between conversations, and can keep a daily.dev custom feed tuned to it.",
+      "author": {
+        "name": "dailydotdev"
+      },
+      "homepage": "https://daily.dev/marketplace/IGRhuaPoT",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "on-call-lookup",
       "source": "plugins/on-call-lookup",
       "description": "Paste an error or a log line from an incident. Your agent searches daily.dev for posts about the same failure, reads the comments for corrections, and gives you the likely causes, the checks to run first and the fixes, each with its source. It sends only generic terms, never hostnames or secrets.",
