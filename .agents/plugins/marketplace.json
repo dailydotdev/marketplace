@@ -125,6 +125,18 @@
       "category": "Productivity"
     },
     {
+      "name": "interest-agent",
+      "source": {
+        "source": "local",
+        "path": "./plugins/interest-agent"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "on-call-lookup",
       "source": {
         "source": "local",

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "interest-agent",
+  "version": "1.0.0",
+  "description": "Name a topic you want to keep up with and your agent turns it into a brief, hunts daily.dev and the web for what you would not want to miss, remembers your taste between conversations, and can keep a daily.dev custom feed tuned to it.",
+  "author": {
+    "name": "dailydotdev"
+  },
+  "homepage": "https://daily.dev/marketplace/IGRhuaPoT",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Interest Agent",
+        "shortDescription": "Name a topic you want to...",
+        "longDescription": "Name a topic you want to keep up with and your agent turns it into a brief, hunts daily.dev and the web for what you would not want to miss, remembers your taste between conversations, and can keep a daily.dev custom feed tuned to it.",
+        "developerName": "dailydotdev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/IGRhuaPoT"
+      }
+    }
+  }
+}
