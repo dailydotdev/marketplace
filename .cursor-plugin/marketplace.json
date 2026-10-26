@@ -106,6 +106,22 @@
       "category": "community"
     },
     {
+      "name": "discord-dm-digest",
+      "source": "plugins/discord-dm-digest",
+      "description": "Get your own daily.dev digest as a Discord DM: new posts from your For You feed, the popular feed or one of your custom feeds, at the time and days you choose. Each member uses their own account.",
+      "author": {
+        "name": "pedropietro"
+      },
+      "homepage": "https://daily.dev/marketplace/iRcmtX2J7",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "feed-builder",
       "source": "plugins/feed-builder",
       "description": "Describe a feed in plain English, like \"Rust backend and observability, 50+ upvotes, no videos\", and get a daily.dev custom feed with the right tags, sources and thresholds. Your agent resolves the tags, creates the feed, applies the filters and shows you what it returns.",

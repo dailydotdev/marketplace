@@ -106,6 +106,22 @@
       "category": "community"
     },
     {
+      "name": "discord-dm-digest",
+      "displayName": "daily.dev Digest by Discord DM",
+      "source": "./plugins/discord-dm-digest",
+      "description": "Get your own daily.dev digest as a Discord DM: new posts from your For You feed, the popular feed or one of your custom feeds, at the time and days you choose. Each member uses their own account.",
+      "author": {
+        "name": "pedropietro"
+      },
+      "homepage": "https://daily.dev/marketplace/iRcmtX2J7",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "feed-builder",
       "displayName": "Feed Builder",
       "source": "./plugins/feed-builder",

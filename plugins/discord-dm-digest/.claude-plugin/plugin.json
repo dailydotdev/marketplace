@@ -1,0 +1,15 @@
+{
+  "name": "discord-dm-digest",
+  "description": "Get your own daily.dev digest as a Discord DM: new posts from your For You feed, the popular feed or one of your custom feeds, at the time and days you choose. Each member uses their own account.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pedropietro"
+  },
+  "homepage": "https://daily.dev/marketplace/iRcmtX2J7",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

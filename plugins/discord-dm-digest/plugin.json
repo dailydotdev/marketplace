@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "discord-dm-digest",
+  "version": "1.0.0",
+  "description": "Get your own daily.dev digest as a Discord DM: new posts from your For You feed, the popular feed or one of your custom feeds, at the time and days you choose. Each member uses their own account.",
+  "author": {
+    "name": "pedropietro"
+  },
+  "homepage": "https://daily.dev/marketplace/iRcmtX2J7",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "daily.dev Digest by Discord DM",
+        "shortDescription": "Get your own daily.dev...",
+        "longDescription": "Get your own daily.dev digest as a Discord DM: new posts from your For You feed, the popular feed or one of your custom feeds, at the time and days you choose. Each member uses their own account.",
+        "developerName": "pedropietro",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/iRcmtX2J7"
+      }
+    }
+  }
+}
