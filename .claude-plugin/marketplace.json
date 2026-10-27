@@ -26,6 +26,22 @@
       "category": "community"
     },
     {
+      "name": "ai-engineer-reading-list",
+      "displayName": "The AI Engineer Reading List",
+      "source": "./plugins/ai-engineer-reading-list",
+      "description": "Every week, your agent pulls the most-upvoted daily.dev posts on LLM inference, RAG and AI agents, saves them to your bookmarks, and writes you a one-page brief. Curated lanes, ranked by the community, no filler.",
+      "author": {
+        "name": "paoloap"
+      },
+      "homepage": "https://daily.dev/marketplace/ZjtisBCSj",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "bookmark-recap",
       "displayName": "Bookmark Recap",
       "source": "./plugins/bookmark-recap",
