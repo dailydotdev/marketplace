@@ -10,22 +10,6 @@
   },
   "plugins": [
     {
-      "name": "bookmark-lab",
-      "displayName": "Bookmark Lab",
-      "source": "./plugins/bookmark-lab",
-      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
-      "author": {
-        "name": "stefan_pantelich"
-      },
-      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
-      "keywords": [
-        "daily.dev",
-        "dailydotdev",
-        "community"
-      ],
-      "category": "community"
-    },
-    {
       "name": "ai-engineer-reading-list",
       "displayName": "The AI Engineer Reading List",
       "source": "./plugins/ai-engineer-reading-list",
@@ -34,6 +18,22 @@
         "name": "paoloap"
       },
       "homepage": "https://daily.dev/marketplace/ZjtisBCSj",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "bookmark-lab",
+      "displayName": "Bookmark Lab",
+      "source": "./plugins/bookmark-lab",
+      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
+      "author": {
+        "name": "stefan_pantelich"
+      },
+      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
       "keywords": [
         "daily.dev",
         "dailydotdev",
@@ -258,6 +258,22 @@
         "name": "capjavert"
       },
       "homepage": "https://daily.dev/marketplace/BHWZC63ZP",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "read-next",
+      "displayName": "Read Next",
+      "source": "./plugins/read-next",
+      "description": "Turns your daily.dev bookmarks into a realistic reading queue based on the time you have, the topics you care about, and what is actually worth reading next.",
+      "author": {
+        "name": "ristotoldsep"
+      },
+      "homepage": "https://daily.dev/marketplace/ALmQ9FxDc",
       "keywords": [
         "daily.dev",
         "dailydotdev",

@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "bookmark-lab",
+      "name": "ai-engineer-reading-list",
       "source": {
         "source": "local",
-        "path": "./plugins/bookmark-lab"
+        "path": "./plugins/ai-engineer-reading-list"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -17,10 +17,10 @@
       "category": "Productivity"
     },
     {
-      "name": "ai-engineer-reading-list",
+      "name": "bookmark-lab",
       "source": {
         "source": "local",
-        "path": "./plugins/ai-engineer-reading-list"
+        "path": "./plugins/bookmark-lab"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -189,6 +189,18 @@
       "source": {
         "source": "local",
         "path": "./plugins/profile-autofill"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "read-next",
+      "source": {
+        "source": "local",
+        "path": "./plugins/read-next"
       },
       "policy": {
         "installation": "AVAILABLE",
