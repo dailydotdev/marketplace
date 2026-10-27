@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tool-showdown",
+  "version": "1.0.0",
+  "description": "Name two tools, like \"OpenTofu vs Terraform\". Your agent searches daily.dev for comparisons, migration stories and recent news on both, marks which posts come from a vendor, reads the comments, and gives a verdict with its evidence. If daily.dev has too little, it says so.",
+  "author": {
+    "name": "bobbyiliev"
+  },
+  "homepage": "https://daily.dev/marketplace/n7oHUBtmR",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Tool Showdown",
+        "shortDescription": "Name two tools, like...",
+        "longDescription": "Name two tools, like \"OpenTofu vs Terraform\". Your agent searches daily.dev for comparisons, migration stories and recent news on both, marks which posts come from a vendor, reads the comments, and gives a verdict with its evidence. If daily.dev has too little, it says so.",
+        "developerName": "bobbyiliev",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/n7oHUBtmR"
+      }
+    }
+  }
+}

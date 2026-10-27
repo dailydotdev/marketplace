@@ -10,13 +10,13 @@
   },
   "plugins": [
     {
-      "name": "bookmark-lab",
-      "source": "plugins/bookmark-lab",
-      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
+      "name": "ai-engineer-reading-list",
+      "source": "plugins/ai-engineer-reading-list",
+      "description": "Every week, your agent pulls the most-upvoted daily.dev posts on LLM inference, RAG and AI agents, saves them to your bookmarks, and writes you a one-page brief. Curated lanes, ranked by the community, no filler.",
       "author": {
-        "name": "stefan_pantelich"
+        "name": "paoloap"
       },
-      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
+      "homepage": "https://daily.dev/marketplace/ZjtisBCSj",
       "repository": "https://github.com/dailydotdev/marketplace",
       "keywords": [
         "daily.dev",
@@ -26,13 +26,13 @@
       "category": "community"
     },
     {
-      "name": "ai-engineer-reading-list",
-      "source": "plugins/ai-engineer-reading-list",
-      "description": "Every week, your agent pulls the most-upvoted daily.dev posts on LLM inference, RAG and AI agents, saves them to your bookmarks, and writes you a one-page brief. Curated lanes, ranked by the community, no filler.",
+      "name": "bookmark-lab",
+      "source": "plugins/bookmark-lab",
+      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
       "author": {
-        "name": "paoloap"
+        "name": "stefan_pantelich"
       },
-      "homepage": "https://daily.dev/marketplace/ZjtisBCSj",
+      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
       "repository": "https://github.com/dailydotdev/marketplace",
       "keywords": [
         "daily.dev",
@@ -289,6 +289,22 @@
         "name": "dailydotdev"
       },
       "homepage": "https://daily.dev/marketplace/jbUktQx9M",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "tool-showdown",
+      "source": "plugins/tool-showdown",
+      "description": "Name two tools, like \"OpenTofu vs Terraform\". Your agent searches daily.dev for comparisons, migration stories and recent news on both, marks which posts come from a vendor, reads the comments, and gives a verdict with its evidence. If daily.dev has too little, it says so.",
+      "author": {
+        "name": "bobbyiliev"
+      },
+      "homepage": "https://daily.dev/marketplace/n7oHUBtmR",
       "repository": "https://github.com/dailydotdev/marketplace",
       "keywords": [
         "daily.dev",
