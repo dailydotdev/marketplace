@@ -233,6 +233,18 @@
       "category": "Productivity"
     },
     {
+      "name": "tool-showdown",
+      "source": {
+        "source": "local",
+        "path": "./plugins/tool-showdown"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "trend-radar",
       "source": {
         "source": "local",

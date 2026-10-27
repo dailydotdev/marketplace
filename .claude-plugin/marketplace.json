@@ -314,6 +314,22 @@
       "category": "community"
     },
     {
+      "name": "tool-showdown",
+      "displayName": "Tool Showdown",
+      "source": "./plugins/tool-showdown",
+      "description": "Name two tools, like \"OpenTofu vs Terraform\". Your agent searches daily.dev for comparisons, migration stories and recent news on both, marks which posts come from a vendor, reads the comments, and gives a verdict with its evidence. If daily.dev has too little, it says so.",
+      "author": {
+        "name": "bobbyiliev"
+      },
+      "homepage": "https://daily.dev/marketplace/n7oHUBtmR",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "trend-radar",
       "displayName": "Trend Radar",
       "source": "./plugins/trend-radar",
