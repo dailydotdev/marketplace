@@ -10,22 +10,6 @@
   },
   "plugins": [
     {
-      "name": "bookmark-lab",
-      "displayName": "Bookmark Lab",
-      "source": "./plugins/bookmark-lab",
-      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
-      "author": {
-        "name": "stefan_pantelich"
-      },
-      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
-      "keywords": [
-        "daily.dev",
-        "dailydotdev",
-        "community"
-      ],
-      "category": "community"
-    },
-    {
       "name": "ai-engineer-reading-list",
       "displayName": "The AI Engineer Reading List",
       "source": "./plugins/ai-engineer-reading-list",
@@ -34,6 +18,22 @@
         "name": "paoloap"
       },
       "homepage": "https://daily.dev/marketplace/ZjtisBCSj",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "bookmark-lab",
+      "displayName": "Bookmark Lab",
+      "source": "./plugins/bookmark-lab",
+      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
+      "author": {
+        "name": "stefan_pantelich"
+      },
+      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
       "keywords": [
         "daily.dev",
         "dailydotdev",
@@ -290,6 +290,22 @@
         "name": "dailydotdev"
       },
       "homepage": "https://daily.dev/marketplace/jbUktQx9M",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "tool-showdown",
+      "displayName": "Tool Showdown",
+      "source": "./plugins/tool-showdown",
+      "description": "Name two tools, like \"OpenTofu vs Terraform\". Your agent searches daily.dev for comparisons, migration stories and recent news on both, marks which posts come from a vendor, reads the comments, and gives a verdict with its evidence. If daily.dev has too little, it says so.",
+      "author": {
+        "name": "bobbyiliev"
+      },
+      "homepage": "https://daily.dev/marketplace/n7oHUBtmR",
       "keywords": [
         "daily.dev",
         "dailydotdev",
