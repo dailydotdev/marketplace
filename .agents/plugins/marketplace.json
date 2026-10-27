@@ -197,6 +197,18 @@
       "category": "Productivity"
     },
     {
+      "name": "read-next",
+      "source": {
+        "source": "local",
+        "path": "./plugins/read-next"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "release-radar",
       "source": {
         "source": "local",

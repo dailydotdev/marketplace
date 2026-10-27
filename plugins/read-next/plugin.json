@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "read-next",
+  "version": "1.0.0",
+  "description": "Turns your daily.dev bookmarks into a realistic reading queue based on the time you have, the topics you care about, and what is actually worth reading next.",
+  "author": {
+    "name": "ristotoldsep"
+  },
+  "homepage": "https://daily.dev/marketplace/ALmQ9FxDc",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Read Next",
+        "shortDescription": "Turns your daily.dev...",
+        "longDescription": "Turns your daily.dev bookmarks into a realistic reading queue based on the time you have, the topics you care about, and what is actually worth reading next.",
+        "developerName": "ristotoldsep",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/ALmQ9FxDc"
+      }
+    }
+  }
+}

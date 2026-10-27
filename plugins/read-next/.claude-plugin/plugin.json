@@ -1,0 +1,15 @@
+{
+  "name": "read-next",
+  "description": "Turns your daily.dev bookmarks into a realistic reading queue based on the time you have, the topics you care about, and what is actually worth reading next.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ristotoldsep"
+  },
+  "homepage": "https://daily.dev/marketplace/ALmQ9FxDc",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}

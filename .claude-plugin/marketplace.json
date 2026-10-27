@@ -266,6 +266,22 @@
       "category": "community"
     },
     {
+      "name": "read-next",
+      "displayName": "Read Next",
+      "source": "./plugins/read-next",
+      "description": "Turns your daily.dev bookmarks into a realistic reading queue based on the time you have, the topics you care about, and what is actually worth reading next.",
+      "author": {
+        "name": "ristotoldsep"
+      },
+      "homepage": "https://daily.dev/marketplace/ALmQ9FxDc",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "release-radar",
       "displayName": "Release Radar",
       "source": "./plugins/release-radar",
