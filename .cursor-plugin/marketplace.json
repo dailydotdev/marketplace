@@ -10,6 +10,22 @@
   },
   "plugins": [
     {
+      "name": "bookmark-lab",
+      "source": "plugins/bookmark-lab",
+      "description": "Turn your daily.dev bookmarks into hands-on practice. Pick an article and get a focused coding exercise, clear success checks, and feedback on your solution.",
+      "author": {
+        "name": "stefan_pantelich"
+      },
+      "homepage": "https://daily.dev/marketplace/YaUDduIjf",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "ai-engineer-reading-list",
       "source": "plugins/ai-engineer-reading-list",
       "description": "Every week, your agent pulls the most-upvoted daily.dev posts on LLM inference, RAG and AI agents, saves them to your bookmarks, and writes you a one-page brief. Curated lanes, ranked by the community, no filler.",
