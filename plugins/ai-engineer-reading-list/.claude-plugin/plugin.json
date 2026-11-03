@@ -1,7 +1,7 @@
 {
   "name": "ai-engineer-reading-list",
   "description": "Every week, your agent pulls the most-upvoted daily.dev posts on LLM inference, RAG and AI agents, saves them to your bookmarks, and writes you a one-page brief. Curated lanes, ranked by the community, no filler.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "paoloap"
   },
