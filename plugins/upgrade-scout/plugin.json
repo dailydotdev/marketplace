@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "upgrade-scout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bumping a dependency, or reviewing a PR that does? Upgrade Scout pulls migration guides, gotchas and community reactions from daily.dev for that library and version, and gives you a verdict before you run the upgrade.",
   "author": {
     "name": "dailydotdev"
