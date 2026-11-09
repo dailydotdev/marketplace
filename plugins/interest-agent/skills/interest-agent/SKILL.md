@@ -22,7 +22,7 @@ Before anything else, check whether daily.dev is reachable: the daily.dev MCP to
 
 If neither is, stop and help the user connect. Recommend the MCP server: there is nothing to install, sign-in goes through daily.dev, and no token has to be handled.
 
-- **Claude Code:** `claude mcp add --transport http daily-dev https://api.daily.dev/mcp`, then `/mcp` to sign in. Offer to run the add command; the sign-in is the user's.
+- **Claude Code:** `claude mcp add --transport http daily.dev https://api.daily.dev/mcp`, then `/mcp` to sign in. Offer to run the add command; the sign-in is the user's.
 - **Codex:** `codex mcp add daily-dev --url https://api.daily.dev/mcp`, then sign in with daily.dev when Codex asks.
 - **Claude (web and desktop), Cursor, VS Code or any other client:** follow https://docs.daily.dev/mcp-server/, which has one-click and manual setup for each.
 - Mention the `write` scope on the consent screen only matters if they want the agent to keep a feed.

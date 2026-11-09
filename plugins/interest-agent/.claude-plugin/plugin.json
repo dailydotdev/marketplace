@@ -1,7 +1,7 @@
 {
   "name": "interest-agent",
   "description": "Name a topic you want to keep up with and your agent turns it into a brief, hunts daily.dev and the web for what you would not want to miss, remembers your taste between conversations, and can keep a daily.dev custom feed tuned to it.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "dailydotdev"
   },
