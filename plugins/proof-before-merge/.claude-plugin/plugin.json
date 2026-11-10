@@ -1,0 +1,15 @@
+{
+  "name": "proof-before-merge",
+  "description": "Turn a technical claim from a daily.dev post or bookmark into a reproducible experiment with a baseline, metrics, and a decision rule.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chienvu62"
+  },
+  "homepage": "https://daily.dev/marketplace/ENfcrtStE",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}
