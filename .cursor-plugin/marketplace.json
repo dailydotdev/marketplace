@@ -266,6 +266,22 @@
       "category": "community"
     },
     {
+      "name": "proof-before-merge",
+      "source": "plugins/proof-before-merge",
+      "description": "Turn a technical claim from a daily.dev post or bookmark into a reproducible experiment with a baseline, metrics, and a decision rule.",
+      "author": {
+        "name": "chienvu62"
+      },
+      "homepage": "https://daily.dev/marketplace/ENfcrtStE",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "read-next",
       "source": "plugins/read-next",
       "description": "Turns your daily.dev bookmarks into a realistic reading queue based on the time you have, the topics you care about, and what is actually worth reading next.",

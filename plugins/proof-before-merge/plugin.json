@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "proof-before-merge",
+  "version": "1.0.0",
+  "description": "Turn a technical claim from a daily.dev post or bookmark into a reproducible experiment with a baseline, metrics, and a decision rule.",
+  "author": {
+    "name": "chienvu62"
+  },
+  "homepage": "https://daily.dev/marketplace/ENfcrtStE",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Proof Before Merge",
+        "shortDescription": "Turn a technical claim...",
+        "longDescription": "Turn a technical claim from a daily.dev post or bookmark into a reproducible experiment with a baseline, metrics, and a decision rule.",
+        "developerName": "chienvu62",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/ENfcrtStE"
+      }
+    }
+  }
+}

@@ -266,6 +266,22 @@
       "category": "community"
     },
     {
+      "name": "proof-before-merge",
+      "displayName": "Proof Before Merge",
+      "source": "./plugins/proof-before-merge",
+      "description": "Turn a technical claim from a daily.dev post or bookmark into a reproducible experiment with a baseline, metrics, and a decision rule.",
+      "author": {
+        "name": "chienvu62"
+      },
+      "homepage": "https://daily.dev/marketplace/ENfcrtStE",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "read-next",
       "displayName": "Read Next",
       "source": "./plugins/read-next",
