@@ -1,0 +1,15 @@
+{
+  "name": "agent-stack-radar",
+  "description": "A weekly brief for people who run coding agents. Reads the most discussed daily.dev posts on Claude Code, MCP and agents, checks the comments, and suggests up to five things to fix, try or watch, each with its source.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dio77799"
+  },
+  "homepage": "https://daily.dev/marketplace/XkkaNAkpy",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ]
+}
