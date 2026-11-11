@@ -10,6 +10,22 @@
   },
   "plugins": [
     {
+      "name": "agent-stack-radar",
+      "source": "plugins/agent-stack-radar",
+      "description": "A weekly brief for people who run coding agents. Reads the most discussed daily.dev posts on Claude Code, MCP and agents, checks the comments, and suggests up to five things to fix, try or watch, each with its source.",
+      "author": {
+        "name": "dio77799"
+      },
+      "homepage": "https://daily.dev/marketplace/XkkaNAkpy",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
       "name": "ai-engineer-reading-list",
       "source": "plugins/ai-engineer-reading-list",
       "description": "Every week, your agent pulls the most-upvoted daily.dev posts on LLM inference, RAG and AI agents, saves them to your bookmarks, and writes you a one-page brief. Curated lanes, ranked by the community, no filler.",
@@ -257,6 +273,22 @@
         "name": "capjavert"
       },
       "homepage": "https://daily.dev/marketplace/BHWZC63ZP",
+      "repository": "https://github.com/dailydotdev/marketplace",
+      "keywords": [
+        "daily.dev",
+        "dailydotdev",
+        "community"
+      ],
+      "category": "community"
+    },
+    {
+      "name": "proof-before-merge",
+      "source": "plugins/proof-before-merge",
+      "description": "Turn a technical claim from a daily.dev post or bookmark into a reproducible experiment with a baseline, metrics, and a decision rule.",
+      "author": {
+        "name": "chienvu62"
+      },
+      "homepage": "https://daily.dev/marketplace/ENfcrtStE",
       "repository": "https://github.com/dailydotdev/marketplace",
       "keywords": [
         "daily.dev",

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agent-stack-radar",
+  "version": "1.0.0",
+  "description": "A weekly brief for people who run coding agents. Reads the most discussed daily.dev posts on Claude Code, MCP and agents, checks the comments, and suggests up to five things to fix, try or watch, each with its source.",
+  "author": {
+    "name": "dio77799"
+  },
+  "homepage": "https://daily.dev/marketplace/XkkaNAkpy",
+  "repository": "https://github.com/dailydotdev/marketplace",
+  "keywords": [
+    "daily.dev",
+    "dailydotdev",
+    "community"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Agent Stack Radar",
+        "shortDescription": "A weekly brief for people...",
+        "longDescription": "A weekly brief for people who run coding agents. Reads the most discussed daily.dev posts on Claude Code, MCP and agents, checks the comments, and suggests up to five things to fix, try or watch, each with its source.",
+        "developerName": "dio77799",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://daily.dev/marketplace/XkkaNAkpy"
+      }
+    }
+  }
+}

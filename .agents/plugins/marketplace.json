@@ -5,6 +5,18 @@
   },
   "plugins": [
     {
+      "name": "agent-stack-radar",
+      "source": {
+        "source": "local",
+        "path": "./plugins/agent-stack-radar"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "ai-engineer-reading-list",
       "source": {
         "source": "local",
@@ -189,6 +201,18 @@
       "source": {
         "source": "local",
         "path": "./plugins/profile-autofill"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "proof-before-merge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/proof-before-merge"
       },
       "policy": {
         "installation": "AVAILABLE",
